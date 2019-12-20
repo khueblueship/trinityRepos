@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="resource_name" label="Resource name" language="en" table="x_432099_trinity_resource">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>resource_name</element>
+            <help/>
+            <hint/>
+            <label>Resource name</label>
+            <language>en</language>
+            <name>x_432099_trinity_resource</name>
+            <plural>Resource names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-20 09:01:48</sys_created_on>
+            <sys_id>bfba2b8edbb100109ec67b8239961947</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Resource name</sys_name>
+            <sys_package display_value="Trinity" source="x_432099_trinity">a588a7c6dbb100109ec67b8239961904</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Trinity">a588a7c6dbb100109ec67b8239961904</sys_scope>
+            <sys_update_name>sys_documentation_x_432099_trinity_resource_resource_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-20 09:01:48</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
